@@ -2,7 +2,7 @@
 Simply drag your modified save onto the "Drag save file onto me!" file to generate a new checksum for it so that it can be used in game.
 
 ## Finding your save files
-### For PC:
+### For Windows PC:
 Go to file explorer and type\
 `%LOCALAPPDATA%\LucasArts\LEGO Star Wars - The Complete Saga\SavedGames`\
 into the path bar. There you will find your PC saves.\
