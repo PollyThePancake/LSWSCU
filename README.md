@@ -12,7 +12,7 @@ For Xbox 360:
 	Find your save file for the game. Nothing else needed
 	
 For PS3:
-	Use the included PS3 Save Regsigner application to decrypt the save file, then edit it, drop on the tool and then re-encrypt it
+	Use an application called PS3 Save Regsigner to decrypt the save file, then edit it, drop on the tool and then re-encrypt it
 	Be Sure to follow the instructions for the application
 	
 Simply drag your modified save onto the "Drag save file onto me!" file to generate a new checksum for it so that it can be used in game
