@@ -10,7 +10,7 @@ A checksum is a small bit of data derived from some other data, as a means of ve
 
 At the moment, there is only support for the following formats
 
-### LEGO Star Wars: The Complete Sage
+### LEGO Star Wars: The Complete Saga
 - PC
 - PS3
 - Xbox 360
