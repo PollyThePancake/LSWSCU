@@ -45,3 +45,7 @@ ALWAYS MAKE BACKUPS OF YOUR SAVE FILES. I AM NOT RESPONSIBLE FOR WHAT HAPPENS TO
 ## Finding your save files?
 
 Documentation Pending
+
+## License
+
+LSWSCU is licensed under the GPL and is free for everyone to use. I only ask that you credit the use of this tool and do not claim it as your own work
