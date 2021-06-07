@@ -29,7 +29,7 @@ with open(savefile, 'r+b') as file:
         print("\nOld Checksum: " + str(oldchecksum))
         print("\nNew Checksum: " + str(checksum))
         file.seek(end)
-        # file.write(int(checksum).to_bytes(4, byteorder=order))
+        file.write(int(checksum).to_bytes(4, byteorder=order))
 
 
     # TCS
