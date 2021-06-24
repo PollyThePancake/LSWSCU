@@ -27,7 +27,7 @@ At the moment, there is only support for the following formats
 - GameCube
 
 ### LEGO Star Wars: The Video Game 
-- PC
+- PC & Mac (same across both platforms)
 - PS3 (Backwards compatability & emulation)
 - PS2
 - PS2 10/1/2005 Print Preview
